@@ -4,6 +4,9 @@ Trinity
 Unreleased (latest source)
 --------------------------
 
+- `#617 <https://github.com/ethereum/trinity/pull/617>`_: Feature: Expose certain peer pool events and move RequestServer into an isolated plugin
+- `#617 <https://github.com/ethereum/trinity/pull/617>`_: Performance: Upgrade to new Lahja version with improved performance
+
 v0.1.0-alpha.24
 --------------------------
 
